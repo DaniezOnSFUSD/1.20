@@ -4,7 +4,7 @@
 
 ## READ ME
 
-Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by @daniezonmc, while originally being developed by Chocofush. We appreciate their hard work and dedication to making this project available.
+Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by @daniezonmc, while originally being developed by Chocofush. We appreciate their hard work and dedication to making the original eaglercraft 1.8.8 into 1.20. This project wouldn't be here without their dedication.
 
 ## Important Notice
 
