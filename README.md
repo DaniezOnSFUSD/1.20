@@ -1,7 +1,7 @@
 
 <img width="1024" height="211" alt="eaglymc" src="https://github.com/user-attachments/assets/9e515e2e-683c-47b5-abb6-0707b18ced15" />
 
-                                                **No Copyright**
+                                            **No Copyright**
 
 ## READ ME
 
