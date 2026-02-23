@@ -34,6 +34,6 @@ This project operates under a **No Copyright** status to encourage sharing and c
 
 ## Community Support
 
-We encourage users to participate in discussions, and send feedback on if the website is down @ https://github.com/DaniezOnMC/1.20/discussions . Latest Update / Announcment from Maintainers: https://github.com/DaniezOnMC/1.20/discussions/3 .
+We encourage users to participate in discussions, and send feedback on if the website is down @ [This Link](https://github.com/DaniezOnMC/1.20/discussions). Latest Announcement: [One of My Last Announcements 😭](https://github.com/DaniezOnMC/1.20/discussions/3), Latest Update: [One Last Page Update 😭 (Minor)](https://github.com/DaniezOnMC/1.20/releases/tag/page-update-3).
 
 Have fun gaming!
