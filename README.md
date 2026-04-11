@@ -2,7 +2,7 @@
 <img width="1024" height="211" alt="eaglymc" src="https://github.com/user-attachments/assets/9e515e2e-683c-47b5-abb6-0707b18ced15" />
 
                                             **No Copyright**
-# The Website is Currently Blocked by Securly, I cannot do anything about it because I dont have another email to make another github account. Thanks for playing while you could. -DaniezonMC
+# The website is BACK!!!!! This is all thanks to to a tip by a person on my gmail! Thanks for sending in your feedback, if you want a shoutout please message me again!
 ## 
 
 Welcome to EAGLYMC 1.20! This project is an exciting adaptation of Eaglercraft, and it's designed to enhance your gaming experience. It has been made available to the community by [@daniezonmc](https://github.com/daniezonmc) and was originally made by the people in the [Credits](https://github.com/DaniezOnMC/1.20?tab=readme-ov-file#credits) Section.
